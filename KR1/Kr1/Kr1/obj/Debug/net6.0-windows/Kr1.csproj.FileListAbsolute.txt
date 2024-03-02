@@ -1,0 +1,16 @@
+C:\labkras\KR1\Kr1\Kr1\bin\Debug\net6.0-windows\Kr1.exe
+C:\labkras\KR1\Kr1\Kr1\bin\Debug\net6.0-windows\Kr1.deps.json
+C:\labkras\KR1\Kr1\Kr1\bin\Debug\net6.0-windows\Kr1.runtimeconfig.json
+C:\labkras\KR1\Kr1\Kr1\bin\Debug\net6.0-windows\Kr1.dll
+C:\labkras\KR1\Kr1\Kr1\bin\Debug\net6.0-windows\Kr1.pdb
+C:\labkras\KR1\Kr1\Kr1\obj\Debug\net6.0-windows\Kr1.Form1.resources
+C:\labkras\KR1\Kr1\Kr1\obj\Debug\net6.0-windows\Kr1.csproj.GenerateResource.cache
+C:\labkras\KR1\Kr1\Kr1\obj\Debug\net6.0-windows\Kr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\labkras\KR1\Kr1\Kr1\obj\Debug\net6.0-windows\Kr1.AssemblyInfoInputs.cache
+C:\labkras\KR1\Kr1\Kr1\obj\Debug\net6.0-windows\Kr1.AssemblyInfo.cs
+C:\labkras\KR1\Kr1\Kr1\obj\Debug\net6.0-windows\Kr1.csproj.CoreCompileInputs.cache
+C:\labkras\KR1\Kr1\Kr1\obj\Debug\net6.0-windows\Kr1.dll
+C:\labkras\KR1\Kr1\Kr1\obj\Debug\net6.0-windows\refint\Kr1.dll
+C:\labkras\KR1\Kr1\Kr1\obj\Debug\net6.0-windows\Kr1.pdb
+C:\labkras\KR1\Kr1\Kr1\obj\Debug\net6.0-windows\Kr1.genruntimeconfig.cache
+C:\labkras\KR1\Kr1\Kr1\obj\Debug\net6.0-windows\ref\Kr1.dll
