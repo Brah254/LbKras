@@ -1,0 +1,13 @@
+C:\labkras\lab4full\fullversionlab4\fullversionlab4\bin\Debug\fullversionlab4.exe.config
+C:\labkras\lab4full\fullversionlab4\fullversionlab4\bin\Debug\fullversionlab4.exe
+C:\labkras\lab4full\fullversionlab4\fullversionlab4\bin\Debug\fullversionlab4.pdb
+C:\labkras\lab4full\fullversionlab4\fullversionlab4\bin\Debug\Logicar.dll
+C:\labkras\lab4full\fullversionlab4\fullversionlab4\bin\Debug\Logicar.pdb
+C:\labkras\lab4full\fullversionlab4\fullversionlab4\obj\Debug\fullversionlab4.csproj.AssemblyReference.cache
+C:\labkras\lab4full\fullversionlab4\fullversionlab4\obj\Debug\fullversionlab4.Form1.resources
+C:\labkras\lab4full\fullversionlab4\fullversionlab4\obj\Debug\fullversionlab4.Properties.Resources.resources
+C:\labkras\lab4full\fullversionlab4\fullversionlab4\obj\Debug\fullversionlab4.csproj.GenerateResource.cache
+C:\labkras\lab4full\fullversionlab4\fullversionlab4\obj\Debug\fullversionlab4.csproj.CoreCompileInputs.cache
+C:\labkras\lab4full\fullversionlab4\fullversionlab4\obj\Debug\fullvers.CD876057.Up2Date
+C:\labkras\lab4full\fullversionlab4\fullversionlab4\obj\Debug\fullversionlab4.exe
+C:\labkras\lab4full\fullversionlab4\fullversionlab4\obj\Debug\fullversionlab4.pdb

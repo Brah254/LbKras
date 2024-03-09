@@ -1,0 +1,6 @@
+C:\labkras\lab4full\fullversionlab4\Logicar\bin\Debug\Logicar.dll
+C:\labkras\lab4full\fullversionlab4\Logicar\bin\Debug\Logicar.pdb
+C:\labkras\lab4full\fullversionlab4\Logicar\obj\Debug\Logicar.csproj.AssemblyReference.cache
+C:\labkras\lab4full\fullversionlab4\Logicar\obj\Debug\Logicar.csproj.CoreCompileInputs.cache
+C:\labkras\lab4full\fullversionlab4\Logicar\obj\Debug\Logicar.dll
+C:\labkras\lab4full\fullversionlab4\Logicar\obj\Debug\Logicar.pdb
